@@ -58,20 +58,10 @@
 ### 1. 🤖 실시간 AI 동화 생성
 
 **GPT-4o 기반 멀티에이전트 파이프라인**으로 고품질 한국 동화를 자동 생성합니다.
+<img width="3800" height="2120" alt="image" src="https://github.com/user-attachments/assets/dbb3395e-6779-4097-a9eb-356e5bf1dd31" />
+<img width="3800" height="2120" alt="image" src="https://github.com/user-attachments/assets/e94185a9-ede7-47c6-8f3e-b78482169ebd" />
+<img width="3800" height="2120" alt="image" src="https://github.com/user-attachments/assets/a266dbb7-afab-4ebb-8404-45e85de8df3a" />
 
-```
-사용자 입력 ("용감한 공주 이야기")
-    ↓
-[Safety Agent] 유해 콘텐츠 필터링
-    ↓
-[Planner Agent] 스토리 구조 설계 (발단-전개-위기-절정-결말)
-    ↓
-[Writer Agent] 한국적 정서로 동화 작성
-    ↓
-[Critic Agent] 품질 평가 (100점 만점, 70점 이상 합격)
-    ↓
-최대 3회 피드백 기반 재작성
-```
 
 #### 품질 평가 루브릭 (100점 만점)
 
