@@ -1,4 +1,4 @@
-# 옛날옛적에 (Once Upon a Time)
+# <img width="34" height="34" alt="옛날옛적로고" src="https://github.com/user-attachments/assets/24ff3d4d-8db2-4183-a131-da6ef6e226bb" /> 옛날옛적에 (Once Upon a Time)
 ### AI가 들려주는 나만의 동화
 
 <p align="center">
