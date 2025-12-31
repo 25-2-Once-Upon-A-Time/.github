@@ -367,9 +367,9 @@ google-generativeai
 |-----|------|----------|
 | **신은지** | AI 개발 리드 | GPT-4o 동화 생성, GPT-SoVITS TTS, 멀티에이전트 시스템 |
 | **김승기** | Frontend 개발 | React Native UI/UX |
-| **김은서** | Frontend 개발 | 오디오 플레이어, API 통신 |
+| **김은서** | Frontend 개발 | React Native UI/UX, API 통신 |
 | **조은성** | Backend 개발 | Spring Boot API, DB 설계 |
-| **김사라** | Backend 개발 | Redis 최적화, Supabase 연동 |
+| **김사라** | Backend 개발 | Spring Boot API, Redis 최적화, Supabase 연동 |
 
 ---
 
@@ -386,7 +386,7 @@ google-generativeai
 ## 📞 문의
 
 - **GitHub Issues**: [이슈 등록](https://github.com/your-team/once-upon-a-time/issues)
-- **Email**: team8@gachon.ac.kr
+- **Email**: eunji7480@gachon.ac.kr
 
 ---
 
